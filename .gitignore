@@ -4,3 +4,7 @@ phase-finder-checkpoint.ipynb
 cleaned_traffic_data.csv
 cleaned_traffic_data.json
 car_crash.jpg
+histogram-collisions-per-day.png
+boxplot-collisions-by-day.png
+boxplot-collisions-by-friday-sunday.png
+*.png
