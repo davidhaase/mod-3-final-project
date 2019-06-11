@@ -41,6 +41,10 @@ This fact sheet contains information on fatal motor vehicle crashes and fataliti
 ### Deliverables
 #### Build Files:  Jupyter Notebooks
 * [ds-mod3-final-nguyen-haase.ipynb] Start with this notebook to build collision data and moon data.
+* [Moon Phase scraping.ipynb] Process of data scraping for moonphase calendar, and converting raw moonphase data to 4 categories of New Moon, Waxing, Full Moon and Waning. 
+* [MOONPHASE EFFECT ON COLLISIONS and NYC death rate reflect nation death rate?.ipynb] Testing two questions: 1. Do moon phases affect number of collisions and 2. Is the NYC mortality rate the same as US national mortality rate in 2016?
+
+
 
 #### Data Files
 * Collision Data. Collision data are not hosted here because the file is 331 MB of csv data, but you can pull them from https://data.cityofnewyork.us/resource/qiz3-axqb.json.  For the purposes of this notebook, there were saved locally as in the file: '../../Datasets/NYPD_Motor_Vehicle_Collisions.csv' 
