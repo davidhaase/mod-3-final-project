@@ -44,7 +44,7 @@ This fact sheet contains information on fatal motor vehicle crashes and fataliti
 
 #### Data Files
 * Collision Data. Collision data are not hosted here because the file is 331 MB of csv data, but you can pull them from https://data.cityofnewyork.us/resource/qiz3-axqb.json.  For the purposes of this notebook, there were saved locally as in the file: '../../Datasets/NYPD_Motor_Vehicle_Collisions.csv' 
-* Moon Phases.  Moon phases from the Navy site used in this notebook are available in this repository referenced in teh file, moonphasedf.csv:
+* Moon Phases.  Moon phases from the Navy site used in this notebook are available in this repository referenced in the file moonphasetodate.csv . Raw data scraped from the Navy site is stored in the file moonphasedf.csv .
 
 #### Conclusion and Presentation
 * https://docs.google.com/presentation/d/1STg8PRsdN8YOPfCLKbWTnA2Nx6alV7CNDdMPofqsugk/edit?usp=sharing
